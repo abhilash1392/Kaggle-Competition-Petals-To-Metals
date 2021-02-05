@@ -10,6 +10,10 @@ To check my notebook on kaggle check.
 
 https://www.kaggle.com/imabhilash/flowerclassificationusingtpus
 
+To download the model:
+
+https://www.kaggle.com/imabhilash/flowerclassificationusingtpus/output
+
 Also, I have created an Fast API for the fun of testing images with the data than I want to use.
 
 
