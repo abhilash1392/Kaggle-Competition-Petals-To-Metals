@@ -19,4 +19,5 @@ Also, I have created an Fast API for the fun of testing images with the data tha
 
 
 
+
 !iamge[fastAPI_Result.jpg]
